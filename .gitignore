@@ -1,8 +1,8 @@
 # Ignore vim swp files
 *.swp
 
-# Ignore the temp database and all related files. (Will hopefully remember to delete if this becomes something)
-**/databases
+# Ignore files in the databases folder 
+databases/*
 
 # Mac/OSX Finder metadata
 .DS_Store
